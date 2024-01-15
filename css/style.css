@@ -960,8 +960,9 @@ section p {
     font-size: 2em;
   }
 
-  .slide-loader {
-    bottom: 20px;
+   .slide-loader {
+    right: 40px;
+    bottom: 70px;
   }
 
   .share {
